@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Чат-бот погоды в СПб](https://github.com/Navazhdenie/mathshub_study/blob/main/weather_spb_git.ipynb) | Первый чат-бот в телеграм| telebot, requests 
+| [Чат-бот погоды в СПб](https://github.com/Navazhdenie/mathshub_study/blob/main/weather_spb_git.ipynb) | Первый чат-бот в телеграм| telebot, requests, API Яндекс-погоды 
